@@ -65,6 +65,19 @@ button {
 .header-menu-link:focus {
   color: #404bbf;
 }
+
+.address {
+  font-style: normal;
+}
+
+.address:hover {
+  color: #404bbf;
+}
+
+.address:focus {
+  color: #404bbf;
+}
+
 .address-link {
   font-size: 16px;
   line-height: 1.5;
@@ -94,7 +107,13 @@ button {
   color: #fff;
   background: #4d5ae5;
 }
+.hero-btn:hover {
+  background-color: #404bbf;
+}
 
+.hero-btn:focus {
+  background-color: #404bbf;
+}
 /*===================================*/
 
 /*==============FEATURE=====================*/
@@ -116,13 +135,18 @@ button {
 /*===================================*/
 
 /*================TEAM===================*/
+.team {
+  background-color: #f4f4fd;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-subtitle {
@@ -149,10 +173,11 @@ button {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-subtitle {
