@@ -89,12 +89,6 @@ button {
 /*===================================*/
 
 /*==============FEATURE=====================*/
-.features-list {
-}
-
-.features-item {
-}
-
 .features-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -113,9 +107,6 @@ button {
 /*===================================*/
 
 /*================TEAM===================*/
-
-.team {
-}
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -124,12 +115,7 @@ button {
   text-align: center;
   color: #2e2f42;
 }
-.team-list {
-}
-.team-item {
-}
-.team-image {
-}
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -151,8 +137,6 @@ button {
 
 /*===============PORTFOLOI====================*/
 
-.portfolio {
-}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -161,12 +145,7 @@ button {
   text-align: center;
   color: #2e2f42;
 }
-.portfolio-list {
-}
-.portfolio-item {
-}
-.portfolio-image {
-}
+
 .portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
