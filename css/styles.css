@@ -144,6 +144,10 @@ button {
   text-transform: capitalize;
 }
 
+.team-item {
+  background-color: #ffffff;
+}
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -159,7 +163,6 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  background-color: #ffffff;
 }
 
 /*===================================*/
