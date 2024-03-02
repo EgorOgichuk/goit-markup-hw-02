@@ -139,6 +139,9 @@ button {
   background-color: #f4f4fd;
 }
 
+.team-list {
+  background-color: #ffffff;
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -147,7 +150,6 @@ button {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  background-color: #ffffff;
 }
 
 .team-subtitle {
